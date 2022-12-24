@@ -1,0 +1,25 @@
+[
+    {
+        "state": "Maharastra",
+        "city": [
+            "mumbai",
+            "pune",
+            "nasik"
+        ]
+    },
+    {
+        "state": "Delhi",
+        "city": [
+            "Firozabad",
+            "Shergarh",
+            "Mehrauli"
+        ]
+    },
+    {
+        "state": "Rajasthan",
+        "city": [
+            "Udaipur",
+            "Jaipur"
+        ]
+    }
+]
